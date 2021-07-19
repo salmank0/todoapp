@@ -1,0 +1,28 @@
+{
+  "name": "tasks",
+  "version": "1.0.0",
+  "description": "api with nodejs express js and mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salmank0/todoapp.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mysql",
+    "restapi"
+  ],
+  "author": "Mohammad Salman Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salmank0/todoapp/issues"
+  },
+  "homepage": "https://github.com/salmank0/todoapp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
